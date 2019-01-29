@@ -26,7 +26,7 @@ def in1to10(n , outside_mode)
 
 def problem2():
 
-
+	# KEY: Enter games ? hmmm
    Userinput = ("enter all your games")
 
    if (Userinput != "equal"):
